@@ -5,10 +5,12 @@ This project explores and analyzes an Electric Vehicle (EV) dataset using Python
 ---
 
 ## 📂 Project Structure
-EV_Dataset_Analysis/
-│
+EV_Dataset_Analysis
+
 ├── ev_analysis.ipynb              # Jupyter notebook with all analysis tasks
+
 ├── ev_car_data.xlsx               # EV dataset used in the project
+
 ├── README.md                      # This project documentation
 
 ---
