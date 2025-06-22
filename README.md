@@ -56,7 +56,7 @@ The dataset contains specifications for various electric vehicles including:
 **Gangadhar Prusti**  
 Data Science Learner | Statistics Graduate  
 📧 gsbngangadhar2317@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/gangadhar-ds)
+🔗 [LinkedIn](https://www.linkedin.com/in/gangadhar-prusti/)
 
 ---
 
